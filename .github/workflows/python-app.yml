@@ -25,4 +25,5 @@ jobs:
 
     - name: Run Python script
       run: |
-        python find-lowest-assigenmnt11.py
+        python find-lowest-assigenmnt11.py test_data/test1_input.txt test_output.txt
+
