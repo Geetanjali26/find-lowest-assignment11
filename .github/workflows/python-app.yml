@@ -25,5 +25,5 @@ jobs:
 
     - name: Run Python script
       run: |
-        python find-lowest-assigenmnt11.py test_data/test1_input.txt test_output.txt
+        python find-lowest-assignment11.py test_data/test1_input.txt test_output.txt
 
